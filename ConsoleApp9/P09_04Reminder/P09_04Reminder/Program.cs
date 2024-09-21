@@ -1,7 +1,8 @@
-﻿using System.Globalization;
+﻿/*using System.Globalization;
+
 Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 
-Console.WriteLine("Please provide two numbers for the calculations:");
+Console.WriteLine("Give me a number:");
 
 string input1 = Console.ReadLine();
 float a = Convert.ToSingle(input1);
@@ -9,6 +10,9 @@ float a = Convert.ToSingle(input1);
 string input2 = Console.ReadLine();
 float b = Convert.ToSingle(input2);
 
-double result = a / b;
+float result = a % b;
 
-Console.WriteLine("Your result as a float is " + result + " .");
+Console.WriteLine(result);
+*/
+Console.WriteLine("\"Hello World!\"");
+Console.WriteLine(5);
