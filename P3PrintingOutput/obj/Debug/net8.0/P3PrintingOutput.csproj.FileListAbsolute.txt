@@ -1,0 +1,15 @@
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\bin\Debug\net8.0\P3PrintingOutput.exe
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\bin\Debug\net8.0\P3PrintingOutput.deps.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\bin\Debug\net8.0\P3PrintingOutput.runtimeconfig.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\bin\Debug\net8.0\P3PrintingOutput.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\bin\Debug\net8.0\P3PrintingOutput.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.AssemblyInfoInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.AssemblyInfo.cs
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.csproj.CoreCompileInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.sourcelink.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\obj\Debug\net8.0\refint\P3PrintingOutput.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\obj\Debug\net8.0\P3PrintingOutput.genruntimeconfig.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp2\P3PrintingOutput\obj\Debug\net8.0\ref\P3PrintingOutput.dll
