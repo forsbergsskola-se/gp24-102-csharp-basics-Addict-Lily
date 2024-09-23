@@ -1,0 +1,15 @@
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\bin\Debug\net8.0\P11IfElse.exe
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\bin\Debug\net8.0\P11IfElse.deps.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\bin\Debug\net8.0\P11IfElse.runtimeconfig.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\bin\Debug\net8.0\P11IfElse.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\bin\Debug\net8.0\P11IfElse.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\obj\Debug\net8.0\P11IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\obj\Debug\net8.0\P11IfElse.AssemblyInfoInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\obj\Debug\net8.0\P11IfElse.AssemblyInfo.cs
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\obj\Debug\net8.0\P11IfElse.csproj.CoreCompileInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\obj\Debug\net8.0\P11IfElse.sourcelink.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\obj\Debug\net8.0\P11IfElse.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\obj\Debug\net8.0\refint\P11IfElse.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\obj\Debug\net8.0\P11IfElse.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\obj\Debug\net8.0\P11IfElse.genruntimeconfig.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp11\P11IfElse\P11IfElse\obj\Debug\net8.0\ref\P11IfElse.dll

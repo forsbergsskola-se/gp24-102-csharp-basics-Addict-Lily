@@ -1,0 +1,15 @@
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\bin\Debug\net8.0\P2CodeExecution.exe
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\bin\Debug\net8.0\P2CodeExecution.deps.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\bin\Debug\net8.0\P2CodeExecution.runtimeconfig.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\bin\Debug\net8.0\P2CodeExecution.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\bin\Debug\net8.0\P2CodeExecution.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\obj\Debug\net8.0\P2CodeExecution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\obj\Debug\net8.0\P2CodeExecution.AssemblyInfoInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\obj\Debug\net8.0\P2CodeExecution.AssemblyInfo.cs
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\obj\Debug\net8.0\P2CodeExecution.csproj.CoreCompileInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\obj\Debug\net8.0\P2CodeExecution.sourcelink.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\obj\Debug\net8.0\P2CodeExecution.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\obj\Debug\net8.0\refint\P2CodeExecution.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\obj\Debug\net8.0\P2CodeExecution.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\obj\Debug\net8.0\P2CodeExecution.genruntimeconfig.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp1\P2CodeExecution\obj\Debug\net8.0\ref\P2CodeExecution.dll
