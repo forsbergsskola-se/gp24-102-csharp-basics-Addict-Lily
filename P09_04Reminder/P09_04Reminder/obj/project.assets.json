@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\ConsoleApp9\\P09Operators\\P09Operators.csproj",
-      "projectName": "P09Operators",
-      "projectPath": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\ConsoleApp9\\P09Operators\\P09Operators.csproj",
+      "projectUniqueName": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\ConsoleApp9\\P09_04Reminder\\P09_04Reminder\\P09_04Reminder.csproj",
+      "projectName": "P09_04Reminder",
+      "projectPath": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\ConsoleApp9\\P09_04Reminder\\P09_04Reminder\\P09_04Reminder.csproj",
       "packagesPath": "C:\\Users\\Ceca\\.nuget\\packages\\",
-      "outputPath": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\ConsoleApp9\\P09Operators\\obj\\",
+      "outputPath": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\ConsoleApp9\\P09_04Reminder\\P09_04Reminder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

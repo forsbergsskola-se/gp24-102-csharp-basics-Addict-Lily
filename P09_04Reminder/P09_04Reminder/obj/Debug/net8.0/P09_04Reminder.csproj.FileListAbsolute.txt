@@ -1,0 +1,15 @@
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\bin\Debug\net8.0\P09_04Reminder.exe
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\bin\Debug\net8.0\P09_04Reminder.deps.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\bin\Debug\net8.0\P09_04Reminder.runtimeconfig.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\bin\Debug\net8.0\P09_04Reminder.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\bin\Debug\net8.0\P09_04Reminder.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\obj\Debug\net8.0\P09_04Reminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\obj\Debug\net8.0\P09_04Reminder.AssemblyInfoInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\obj\Debug\net8.0\P09_04Reminder.AssemblyInfo.cs
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\obj\Debug\net8.0\P09_04Reminder.csproj.CoreCompileInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\obj\Debug\net8.0\P09_04Reminder.sourcelink.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\obj\Debug\net8.0\P09_04Reminder.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\obj\Debug\net8.0\refint\P09_04Reminder.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\obj\Debug\net8.0\P09_04Reminder.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\obj\Debug\net8.0\P09_04Reminder.genruntimeconfig.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_04Reminder\P09_04Reminder\obj\Debug\net8.0\ref\P09_04Reminder.dll
