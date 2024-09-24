@@ -3,18 +3,8 @@
 string userAge = Console.ReadLine();
 int age = int.Parse(userAge);
 
-if (age <= 13)
-{
-    Console.WriteLine("You are a child.");
-}
-else if (age <= 13 && age >= 18)
-{
-    Console.WriteLine("You are a teenager.");
-}
-else
-{
-    Console.WriteLine("You are an adult.");
-}
+string outputMessage = age <= 13 ? "You are a child." : age <= 13 || age <= 17 ? "You are a teenager." : "You are an adult.";
+Console.WriteLine(outputMessage);
 
 
 Console.WriteLine("Give me another number");
