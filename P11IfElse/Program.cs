@@ -1,7 +1,6 @@
 ﻿Console.WriteLine("What is your age?");
 
-string userAge = Console.ReadLine();
-int age = int.Parse(userAge);
+int age = int.Parse(Console.ReadLine());
 
 string outputMessage = age <= 13 ? "You are a child." : age <= 13 || age <= 17 ? "You are a teenager." : "You are an adult.";
 Console.WriteLine(outputMessage);
@@ -9,8 +8,7 @@ Console.WriteLine(outputMessage);
 
 Console.WriteLine("Give me another number");
 
-string userNumber = Console.ReadLine();
-int number = int.Parse(userNumber);
+int number = int.Parse(Console.ReadLine());
 
 if (number < age)
 {
