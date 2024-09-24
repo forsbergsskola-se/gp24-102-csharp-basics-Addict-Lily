@@ -1,11 +1,11 @@
 ﻿Console.WriteLine("Write side a and side b of the right triangle:");
 
-float a = float.Parse(Console.ReadLine());
-float b = float.Parse(Console.ReadLine());
+double a = double.Parse(Console.ReadLine());
+double b = double.Parse(Console.ReadLine());
 
-float hypotenuse = a * a + b * b;
+double hypotenuse = Math.Sqrt((a * a) + (b * b));
 
-Console.WriteLine($"The length of the hypotenuse of a right triangle is {Math.Sqrt(hypotenuse)}.");
+Console.WriteLine($"The length of the hypotenuse of a right triangle is {hypotenuse}.");
 
 
 
