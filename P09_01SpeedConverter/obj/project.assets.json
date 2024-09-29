@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\ConsoleApp9\\P09Operators\\P09Operators.csproj",
-      "projectName": "P09Operators",
-      "projectPath": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\ConsoleApp9\\P09Operators\\P09Operators.csproj",
+      "projectUniqueName": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\P09_01SpeedConverter\\P09_01SpeedConverter.csproj",
+      "projectName": "P09_01SpeedConverter",
+      "projectPath": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\P09_01SpeedConverter\\P09_01SpeedConverter.csproj",
       "packagesPath": "C:\\Users\\Ceca\\.nuget\\packages\\",
-      "outputPath": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\ConsoleApp9\\P09Operators\\obj\\",
+      "outputPath": "C:\\Unity Hub\\gp24-102-csharp-basics-Addict-Lily\\P09_01SpeedConverter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
