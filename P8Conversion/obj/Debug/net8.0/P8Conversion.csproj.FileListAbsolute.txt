@@ -1,0 +1,15 @@
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\bin\Debug\net8.0\P8Conversion.exe
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\bin\Debug\net8.0\P8Conversion.deps.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\bin\Debug\net8.0\P8Conversion.runtimeconfig.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\bin\Debug\net8.0\P8Conversion.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\bin\Debug\net8.0\P8Conversion.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\obj\Debug\net8.0\P8Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\obj\Debug\net8.0\P8Conversion.AssemblyInfoInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\obj\Debug\net8.0\P8Conversion.AssemblyInfo.cs
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\obj\Debug\net8.0\P8Conversion.csproj.CoreCompileInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\obj\Debug\net8.0\P8Conversion.sourcelink.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\obj\Debug\net8.0\P8Conversion.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\obj\Debug\net8.0\refint\P8Conversion.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\obj\Debug\net8.0\P8Conversion.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\obj\Debug\net8.0\P8Conversion.genruntimeconfig.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp8\P8Conversion\obj\Debug\net8.0\ref\P8Conversion.dll

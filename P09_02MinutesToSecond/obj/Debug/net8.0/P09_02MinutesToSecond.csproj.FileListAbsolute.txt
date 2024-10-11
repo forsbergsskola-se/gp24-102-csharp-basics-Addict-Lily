@@ -1,0 +1,15 @@
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\bin\Debug\net8.0\P09_02MinutesToSecond.exe
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\bin\Debug\net8.0\P09_02MinutesToSecond.deps.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\bin\Debug\net8.0\P09_02MinutesToSecond.runtimeconfig.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\bin\Debug\net8.0\P09_02MinutesToSecond.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\bin\Debug\net8.0\P09_02MinutesToSecond.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\obj\Debug\net8.0\P09_02MinutesToSecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\obj\Debug\net8.0\P09_02MinutesToSecond.AssemblyInfoInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\obj\Debug\net8.0\P09_02MinutesToSecond.AssemblyInfo.cs
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\obj\Debug\net8.0\P09_02MinutesToSecond.csproj.CoreCompileInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\obj\Debug\net8.0\P09_02MinutesToSecond.sourcelink.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\obj\Debug\net8.0\P09_02MinutesToSecond.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\obj\Debug\net8.0\refint\P09_02MinutesToSecond.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\obj\Debug\net8.0\P09_02MinutesToSecond.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\obj\Debug\net8.0\P09_02MinutesToSecond.genruntimeconfig.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp9\P09_02MinutesToSecond\P09_02MinutesToSecond\obj\Debug\net8.0\ref\P09_02MinutesToSecond.dll

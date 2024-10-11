@@ -1,0 +1,15 @@
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\bin\Debug\net8.0\P5Variables.exe
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\bin\Debug\net8.0\P5Variables.deps.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\bin\Debug\net8.0\P5Variables.runtimeconfig.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\bin\Debug\net8.0\P5Variables.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\bin\Debug\net8.0\P5Variables.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\obj\Debug\net8.0\P5Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\obj\Debug\net8.0\P5Variables.AssemblyInfoInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\obj\Debug\net8.0\P5Variables.AssemblyInfo.cs
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\obj\Debug\net8.0\P5Variables.csproj.CoreCompileInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\obj\Debug\net8.0\P5Variables.sourcelink.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\obj\Debug\net8.0\P5Variables.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\obj\Debug\net8.0\refint\P5Variables.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\obj\Debug\net8.0\P5Variables.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\obj\Debug\net8.0\P5Variables.genruntimeconfig.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp4\P5Variables\obj\Debug\net8.0\ref\P5Variables.dll

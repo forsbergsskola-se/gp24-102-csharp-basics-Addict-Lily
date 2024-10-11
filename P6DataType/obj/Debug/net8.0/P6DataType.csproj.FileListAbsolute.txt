@@ -1,0 +1,15 @@
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\bin\Debug\net8.0\P6DataType.exe
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\bin\Debug\net8.0\P6DataType.deps.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\bin\Debug\net8.0\P6DataType.runtimeconfig.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\bin\Debug\net8.0\P6DataType.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\bin\Debug\net8.0\P6DataType.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\obj\Debug\net8.0\P6DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\obj\Debug\net8.0\P6DataType.AssemblyInfoInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\obj\Debug\net8.0\P6DataType.AssemblyInfo.cs
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\obj\Debug\net8.0\P6DataType.csproj.CoreCompileInputs.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\obj\Debug\net8.0\P6DataType.sourcelink.json
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\obj\Debug\net8.0\P6DataType.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\obj\Debug\net8.0\refint\P6DataType.dll
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\obj\Debug\net8.0\P6DataType.pdb
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\obj\Debug\net8.0\P6DataType.genruntimeconfig.cache
+C:\Unity Hub\gp24-102-csharp-basics-Addict-Lily\ConsoleApp5\P6DataType\obj\Debug\net8.0\ref\P6DataType.dll
